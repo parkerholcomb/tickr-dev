@@ -1,3 +1,4 @@
 .vscode
 .venv
 *.egg-info
+*.cpython-39.pyc
