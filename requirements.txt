@@ -2,3 +2,5 @@ pandas
 ipykernel
 requests
 black
+plotly
+nbformat

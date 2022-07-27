@@ -1,4 +1,5 @@
 .vscode
 .venv
 *.egg-info
-*.cpython-39.pyc
+*.pyc
+src/tickr/__pycache__/seatgeek.cpython-39.pyc
